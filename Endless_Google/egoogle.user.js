@@ -12,7 +12,7 @@
 // @include         https://encrypted.google.*
 // @run-at          document-start
 // @grant           GM_xmlhttpRequest
-// @version         0.0.4
+// @version         0.0.5
 // ==/UserScript==
 
 // TODO: on page refresh:
